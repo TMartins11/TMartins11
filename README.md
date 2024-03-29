@@ -3,10 +3,10 @@
 - 🎓 Estudante de Ciências da Computação - Universidade Federal de Alfenas | UNIFAL - 1/8
 
 <a href="https://github.com/TMartins11/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TMartins11&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=transparent">
 </a>
 <a href="https://github.com/TMartins11/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TMartins11&theme=transparent&layout=compact&langs_count=8&card_width=150" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMartins11&theme=transparent&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
