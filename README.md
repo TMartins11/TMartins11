@@ -11,7 +11,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Cpp" height="60" width="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-   <img align="center" alt="Thiago-C" height="60" width="50" src="https://raw.githubusercontent.com/isoc/logos/master/c_logo.png">
   <img align="center" alt="Thiago-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
