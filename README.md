@@ -1,6 +1,6 @@
 ### Olá, sou o Thiago Martins, seja bem vindo!!!
-- 🔭 Atualmente iniciando na área da tecnologia, aprofundando em C++ e começando em HTML
-- 🎓 Estudante de Ciências da Computação - Universidade Federal de Alfenas | UNIFAL - 1/8
+- 🔭 Atualmente iniciando na área da tecnologia, aprofundando em C++ e HTML
+- 🎓 Estudante de Ciências da Computação - Universidade Federal de Alfenas | UNIFAL - 2/8
 
 <a href="https://github.com/TMartins11/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=transparent">
