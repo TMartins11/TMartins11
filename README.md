@@ -1,5 +1,5 @@
 ### Olá, sou o Thiago Martins, seja bem vindo!!!
-- 🔭 Atualmente iniciando na área da tecnologia, aprofundando em C.
+- 🔭 Atualmente iniciando na área da tecnologia, aprofundando em C/C++
 - 🎓 Estudante de Ciências da Computação - Universidade Federal de Alfenas | UNIFAL - 2/8
 
 <a href="https://github.com/TMartins11/github-readme-stats">
@@ -15,10 +15,11 @@
 </div>
 
 ##
-<div> 
+<div>
+  <a href = "www.linkedin.com/in/tmartins"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
   <a href = "mailto:thiago.martins1112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/t_martins11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://visitcount.itsvg.in">
+  <a href= "https://instagram.com/t_martins11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href= "https://visitcount.itsvg.in">
   <img height="29" src="https://visitcount.itsvg.in/api?id=TMartins11&label=Profile%20Views&color=12&icon=0&pretty=true" />
 </a>
 
