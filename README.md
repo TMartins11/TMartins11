@@ -42,18 +42,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<a href="https://git.io/streak-stats">
-  <img height=200 src="https://streak-stats.demolab.com?user=TMartins11&theme=dark&border_radius=10&locale=pt_BR" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/TMartins11/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=dark">
-</a>
-
 <div align="center">
-  <a href="https://github.com/TMartins11/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMartins11&theme=dark&layout=compact" />
-  </a>
+    <a href="https://git.io/streak-stats">
+      <img width=390 src="https://streak-stats.demolab.com?user=TMartins11&theme=dark&border_radius=10&locale=pt_BR" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/TMartins11/github-readme-stats">
+      <img width=368 src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=dark">
+    </a>
+      <a href="https://github.com/TMartins11/convoychat">
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMartins11&theme=dark&layout=compact" />
+      </a>
 </div>
 
 <hr>
