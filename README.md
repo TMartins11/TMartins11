@@ -23,7 +23,8 @@
   <img height="29" src="https://visitcount.itsvg.in/api?id=TMartins11&label=Profile%20Views&color=12&icon=0&pretty=true" />
 </a>
 
-
-
-
- 	
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake.svg" />
+</picture>
