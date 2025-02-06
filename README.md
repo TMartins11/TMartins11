@@ -1,26 +1,62 @@
-### Olá, sou o Thiago Martins, seja bem-vindo!!!
-- 🔭 Atualmente iniciando na área da tecnologia, aprofundando em C/C++
-- 🎓 Estudante de Ciências da Computação - Universidade Federal de Alfenas | UNIFAL - 2/8
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TMartins11.TMartins11&format=true)" />
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=40&duration=4000&pause=1000&center=true&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Thiago+Martins!" alt="Typing SVG" /></a>
+</h1>
+
+<h3 align="center">A Technology Enthusiast from Brazil 🇧🇷</h3>
+
+<br/>
+
+<div align="center">
+
+ 🔭 Driven Computer Science student with a passion for **technology** and **software development**. Seeking opportunities to apply my programming skills and contribute to innovative projects.
+ 
+ 🎓 Studying Computer Science at **UNIFAL-MG | 3/8**
+ 
+  🌱 I'm currently learning **Java**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:thiago.martins1112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/TMartins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=latex,vscode,git,github,linux,windows" />
+</div>
+
+<br/>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<a href="https://git.io/streak-stats">
+  <img height=200 src="https://streak-stats.demolab.com?user=TMartins11&theme=dark&border_radius=10&locale=pt_BR" alt="GitHub Streak" />
+</a>
 <a href="https://github.com/TMartins11/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=transparent">
-</a>
-<a href="https://github.com/TMartins11/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMartins11&theme=transparent&layout=compact" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=dark">
 </a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Cpp" height="70" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Thiago-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<div align="center">
+  <a href="https://github.com/TMartins11/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMartins11&theme=dark&layout=compact" />
+  </a>
 </div>
 
-##
-<div>
-  <a href = "https://www.linkedin.com/in/tmartins/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
-  <a href = "mailto:thiago.martins1112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://instagram.com/t_martins11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMartins11/TMartins11/output/github-snake-dark.svg" />
