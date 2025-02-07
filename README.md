@@ -44,7 +44,7 @@
 <br>
 <div align="center">
     <a href="https://git.io/streak-stats">
-      <img width=390 src="https://streak-stats.demolab.com?user=TMartins11&theme=dark&border_radius=10&locale=pt_BR" alt="GitHub Streak" />
+      <img width = 311 src="https://streak-stats.demolab.com?user=TMartins11&theme=dark&border_radius=10&locale=pt_BR&card_width=390" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/TMartins11/github-readme-stats">
       <img width=368 src="https://github-readme-stats.vercel.app/api?username=TMartins11&show_icons=true&theme=dark">
