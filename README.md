@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,haskell,java"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=latex,vscode,git,github,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=latex,vscode,git,linux,windows" />
 </div>
 
 <br/>
