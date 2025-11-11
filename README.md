@@ -12,7 +12,7 @@
 
  🔭 Driven Computer Science student with a passion for **technology** and **software development**. Seeking opportunities to apply my programming skills and contribute to innovative projects.
  
- 🎓 Studying Computer Science at **UNIFAL-MG | 3/8**
+ 🎓 Studying Computer Science at **UNIFAL-MG | 4/8**
  
   🌱 I'm currently learning **Java**
 
